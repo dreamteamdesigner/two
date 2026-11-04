@@ -1,0 +1,166 @@
+{
+  "notifications": [
+    {
+      "id": "notification-001",
+      "type": "location",
+      "title": "New location detected",
+      "message": "A new location update was received near Times Square, New York.",
+      "timestamp": "2026-11-04T09:42:00-04:00",
+      "is_read": false,
+      "route": "/location-updates"
+    },
+    {
+      "id": "notification-002",
+      "type": "message",
+      "title": "New message received",
+      "message": "A new message was recorded from Alex Morgan on WhatsApp.",
+      "timestamp": "2026-11-04T09:18:00-04:00",
+      "is_read": false,
+      "route": "/messages/whatsapp"
+    },
+    {
+      "id": "notification-003",
+      "type": "call",
+      "title": "Missed call recorded",
+      "message": "A missed call from +1-202-555-0148 was recorded.",
+      "timestamp": "2026-11-04T08:56:00-04:00",
+      "is_read": false,
+      "route": "/activity/call-history"
+    },
+    {
+      "id": "notification-004",
+      "type": "app",
+      "title": "High app activity detected",
+      "message": "TikTok recorded 1 hour and 24 minutes of usage today.",
+      "timestamp": "2026-11-04T08:30:00-04:00",
+      "is_read": false,
+      "route": "/activity/app-usage"
+    },
+    {
+      "id": "notification-005",
+      "type": "message",
+      "title": "New Instagram activity",
+      "message": "A new conversation activity was recorded on Instagram.",
+      "timestamp": "2026-11-04T07:52:00-04:00",
+      "is_read": false,
+      "route": "/messages/instagram"
+    },
+    {
+      "id": "notification-006",
+      "type": "device",
+      "title": "Device battery is low",
+      "message": "The connected device battery level has dropped to 15%.",
+      "timestamp": "2026-11-04T07:15:00-04:00",
+      "is_read": true,
+      "route": "/"
+    },
+    {
+      "id": "notification-007",
+      "type": "location",
+      "title": "Location history updated",
+      "message": "New location records are available for review.",
+      "timestamp": "2026-11-03T21:46:00-04:00",
+      "is_read": true,
+      "route": "/location-updates"
+    },
+    {
+      "id": "notification-008",
+      "type": "call",
+      "title": "Outgoing call recorded",
+      "message": "An outgoing call to Jordan Lee was recorded.",
+      "timestamp": "2026-11-03T20:32:00-04:00",
+      "is_read": true,
+      "route": "/activity/call-history"
+    },
+    {
+      "id": "notification-009",
+      "type": "sync",
+      "title": "Synchronization completed",
+      "message": "Device activity and communication records were successfully synchronized.",
+      "timestamp": "2026-11-03T19:58:00-04:00",
+      "is_read": true,
+      "route": "/"
+    },
+    {
+      "id": "notification-010",
+      "type": "message",
+      "title": "New Facebook message",
+      "message": "A new message was recorded in a Facebook conversation.",
+      "timestamp": "2026-11-03T18:24:00-04:00",
+      "is_read": true,
+      "route": "/messages/facebook"
+    },
+    {
+      "id": "notification-011",
+      "type": "app",
+      "title": "Screen time updated",
+      "message": "Today's recorded screen time has been updated to 4 hours and 12 minutes.",
+      "timestamp": "2026-11-03T17:40:00-04:00",
+      "is_read": true,
+      "route": "/activity/app-usage"
+    },
+    {
+      "id": "notification-012",
+      "type": "gallery",
+      "title": "New gallery items detected",
+      "message": "Three new media items were added to the device gallery.",
+      "timestamp": "2026-11-03T16:18:00-04:00",
+      "is_read": true,
+      "route": "/activity/gallery"
+    },
+    {
+      "id": "notification-013",
+      "type": "browser",
+      "title": "Browser activity updated",
+      "message": "New browsing history records are available.",
+      "timestamp": "2026-11-03T14:52:00-04:00",
+      "is_read": true,
+      "route": "/activity/browser-history"
+    },
+    {
+      "id": "notification-014",
+      "type": "device",
+      "title": "Device connection restored",
+      "message": "The connected device is back online and sending updates.",
+      "timestamp": "2026-11-03T12:36:00-04:00",
+      "is_read": true,
+      "route": "/"
+    },
+    {
+      "id": "notification-015",
+      "type": "contact",
+      "title": "Contact list updated",
+      "message": "Two new contacts were detected in the device contact list.",
+      "timestamp": "2026-11-02T18:15:00-04:00",
+      "is_read": true,
+      "route": "/activity/contacts"
+    },
+    {
+      "id": "notification-016",
+      "type": "sync",
+      "title": "Synchronization delayed",
+      "message": "The latest device synchronization took longer than expected.",
+      "timestamp": "2026-11-02T15:42:00-04:00",
+      "is_read": true,
+      "route": "/"
+    },
+    {
+      "id": "notification-017",
+      "type": "message",
+      "title": "New WhatsApp activity",
+      "message": "A new message exchange was recorded in a group conversation.",
+      "timestamp": "2026-11-02T11:28:00-04:00",
+      "is_read": true,
+      "route": "/messages/whatsapp"
+    },
+    {
+      "id": "notification-018",
+      "type": "location",
+      "title": "Location update unavailable",
+      "message": "A location update could not be retrieved from the connected device.",
+      "timestamp": "2026-11-01T09:16:00-04:00",
+      "is_read": true,
+      "route": "/location-updates"
+    }
+  ]
+}

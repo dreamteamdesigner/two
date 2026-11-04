@@ -1,0 +1,339 @@
+{
+  "recent_app_activity": [
+    {
+      "id": 1,
+      "app_name": "Instagram",
+      "category": "Social",
+      "activity": "Opened app",
+      "timestamp": "2026-10-27T13:42:00-04:00",
+      "duration_seconds": 684,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/instagram.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 2,
+      "app_name": "Messages",
+      "category": "Communication",
+      "activity": "Sent 4 messages",
+      "timestamp": "2026-10-27T13:28:00-04:00",
+      "duration_seconds": 193,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/messages.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 3,
+      "app_name": "Safari",
+      "category": "Browser",
+      "activity": "Visited 6 websites",
+      "timestamp": "2026-10-27T13:05:00-04:00",
+      "duration_seconds": 512,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/safari.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 4,
+      "app_name": "Spotify",
+      "category": "Music",
+      "activity": "Played music",
+      "timestamp": "2026-10-27T12:47:00-04:00",
+      "duration_seconds": 1240,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/spotify.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 5,
+      "app_name": "WhatsApp",
+      "category": "Communication",
+      "activity": "Opened 3 chats",
+      "timestamp": "2026-10-27T12:22:00-04:00",
+      "duration_seconds": 426,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/whatsapp.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 6,
+      "app_name": "YouTube",
+      "category": "Video",
+      "activity": "Watched videos",
+      "timestamp": "2026-10-27T11:54:00-04:00",
+      "duration_seconds": 1865,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/youtube.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 7,
+      "app_name": "Gmail",
+      "category": "Productivity",
+      "activity": "Checked inbox",
+      "timestamp": "2026-10-27T11:31:00-04:00",
+      "duration_seconds": 241,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/gmail.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 8,
+      "app_name": "TikTok",
+      "category": "Social",
+      "activity": "Watched videos",
+      "timestamp": "2026-10-27T10:58:00-04:00",
+      "duration_seconds": 932,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/tiktok.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 9,
+      "app_name": "Google Maps",
+      "category": "Navigation",
+      "activity": "Viewed directions",
+      "timestamp": "2026-10-27T10:24:00-04:00",
+      "duration_seconds": 156,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/google-maps.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 10,
+      "app_name": "Camera",
+      "category": "Photography",
+      "activity": "Captured 2 photos",
+      "timestamp": "2026-10-27T09:46:00-04:00",
+      "duration_seconds": 88,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/camera.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 11,
+      "app_name": "Discord",
+      "category": "Communication",
+      "activity": "Viewed messages",
+      "timestamp": "2026-10-26T22:18:00-04:00",
+      "duration_seconds": 358,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/discord.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 12,
+      "app_name": "Netflix",
+      "category": "Video",
+      "activity": "Played a show",
+      "timestamp": "2026-10-26T21:34:00-04:00",
+      "duration_seconds": 2710,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/netflix.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 13,
+      "app_name": "X",
+      "category": "Social",
+      "activity": "Viewed timeline",
+      "timestamp": "2026-10-26T20:51:00-04:00",
+      "duration_seconds": 487,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/x.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 14,
+      "app_name": "Phone",
+      "category": "Communication",
+      "activity": "Placed a call",
+      "timestamp": "2026-10-26T19:42:00-04:00",
+      "duration_seconds": 326,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/phone.webp",
+      "status": "background"
+    },
+    {
+      "id": 15,
+      "app_name": "Photos",
+      "category": "Photography",
+      "activity": "Viewed library",
+      "timestamp": "2026-10-26T18:27:00-04:00",
+      "duration_seconds": 314,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/photos.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 16,
+      "app_name": "Settings",
+      "category": "Utilities",
+      "activity": "Changed a setting",
+      "timestamp": "2026-10-26T16:11:00-04:00",
+      "duration_seconds": 73,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/settings.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 17,
+      "app_name": "Reddit",
+      "category": "Social",
+      "activity": "Viewed feed",
+      "timestamp": "2026-10-25T22:06:00-04:00",
+      "duration_seconds": 759,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/reddit.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 18,
+      "app_name": "Notion",
+      "category": "Productivity",
+      "activity": "Edited a page",
+      "timestamp": "2026-10-25T17:49:00-04:00",
+      "duration_seconds": 1126,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/notion.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 19,
+      "app_name": "FaceTime",
+      "category": "Communication",
+      "activity": "Started a video call",
+      "timestamp": "2026-10-25T15:21:00-04:00",
+      "duration_seconds": 1432,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/facetime.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 20,
+      "app_name": "Apple Music",
+      "category": "Music",
+      "activity": "Played music",
+      "timestamp": "2026-10-24T13:08:00-04:00",
+      "duration_seconds": 2050,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/apple-music.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 21,
+      "app_name": "Telegram",
+      "category": "Communication",
+      "activity": "Opened 2 chats",
+      "timestamp": "2026-10-24T10:37:00-04:00",
+      "duration_seconds": 391,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/telegram.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 22,
+      "app_name": "Amazon",
+      "category": "Shopping",
+      "activity": "Browsed products",
+      "timestamp": "2026-10-23T19:56:00-04:00",
+      "duration_seconds": 604,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/amazon.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 23,
+      "app_name": "Files",
+      "category": "Utilities",
+      "activity": "Opened documents",
+      "timestamp": "2026-10-23T15:12:00-04:00",
+      "duration_seconds": 207,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/files.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 24,
+      "app_name": "Chrome",
+      "category": "Browser",
+      "activity": "Visited 4 websites",
+      "timestamp": "2026-10-22T14:41:00-04:00",
+      "duration_seconds": 448,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/chrome.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 25,
+      "app_name": "Calendar",
+      "category": "Productivity",
+      "activity": "Checked schedule",
+      "timestamp": "2026-10-21T08:19:00-04:00",
+      "duration_seconds": 94,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/calendar.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 26,
+      "app_name": "Snapchat",
+      "category": "Social",
+      "activity": "Opened chats",
+      "timestamp": "2026-10-20T21:02:00-04:00",
+      "duration_seconds": 527,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/snapchat.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 27,
+      "app_name": "Clock",
+      "category": "Utilities",
+      "activity": "Checked alarms",
+      "timestamp": "2026-10-19T07:42:00-04:00",
+      "duration_seconds": 42,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/clock.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 28,
+      "app_name": "LinkedIn",
+      "category": "Social",
+      "activity": "Viewed feed",
+      "timestamp": "2026-10-18T12:54:00-04:00",
+      "duration_seconds": 382,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/linkedin.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 29,
+      "app_name": "Slack",
+      "category": "Productivity",
+      "activity": "Read messages",
+      "timestamp": "2026-10-17T16:23:00-04:00",
+      "duration_seconds": 266,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/slack.webp",
+      "status": "foreground"
+    },
+    {
+      "id": 30,
+      "app_name": "Maps",
+      "category": "Navigation",
+      "activity": "Viewed recent places",
+      "timestamp": "2026-10-16T11:16:00-04:00",
+      "duration_seconds": 138,
+      "device": "iPhone 15 Pro",
+      "icon": "/assets/app-icons/maps.webp",
+      "status": "foreground"
+    }
+  ],
+  "meta": {
+    "description": "Illustrative dummy app activity records for a dashboard prototype.",
+    "timezone": "America/New_York",
+    "note": "All activity is fictional and intended for UI testing."
+  }
+}

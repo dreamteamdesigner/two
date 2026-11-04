@@ -1,0 +1,4731 @@
+{
+  "meta": {
+    "device_name": "Personal device",
+    "timezone": "America/New_York",
+    "period_start": "2026-08-01",
+    "period_end": "2026-10-30",
+    "data_note": "Synthetic sample measurements for development and UI prototyping; not actual device telemetry."
+  },
+  "daily_usage": [
+    {
+      "date": "2026-09-01",
+      "pickups": 62,
+      "apps": [
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 73,
+          "opens": 32,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 60,
+          "opens": 23,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 49,
+          "opens": 13,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 49,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 48,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 46,
+          "opens": 5,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 35,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 18,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 16,
+          "opens": 8,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "pickups": 72,
+      "apps": [
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 78,
+          "opens": 29,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 64,
+          "opens": 30,
+          "notifications": 34,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 61,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 47,
+          "opens": 7,
+          "notifications": 3,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 44,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 32,
+          "opens": 19,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 12,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 20,
+          "opens": 18,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 15,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 13,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 7,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "pickups": 33,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 84,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 80,
+          "opens": 26,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 77,
+          "opens": 15,
+          "notifications": 35,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 66,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 63,
+          "opens": 15,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 43,
+          "opens": 22,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 42,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 12,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 29,
+          "opens": 12,
+          "notifications": 4,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 19,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 13,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "pickups": 44,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 81,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 75,
+          "opens": 10,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 56,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 52,
+          "opens": 6,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 40,
+          "opens": 15,
+          "notifications": 33,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 38,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 35,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 33,
+          "opens": 10,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 26,
+          "opens": 17,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 19,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "pickups": 43,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 80,
+          "opens": 20,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 65,
+          "opens": 19,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 61,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 42,
+          "opens": 18,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 39,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 27,
+          "opens": 24,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 18,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 14,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 12,
+          "opens": 16,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/messages.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "pickups": 49,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 87,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 48,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 42,
+          "opens": 22,
+          "notifications": 4,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 40,
+          "opens": 23,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 38,
+          "opens": 15,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 37,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 31,
+          "opens": 13,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 28,
+          "opens": 31,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 15,
+          "opens": 6,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 9,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 7,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "pickups": 72,
+      "apps": [
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 73,
+          "opens": 28,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 64,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 54,
+          "opens": 27,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 52,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 8,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 24,
+          "opens": 12,
+          "notifications": 30,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 17,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 12,
+          "opens": 21,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 4,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "pickups": 59,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 55,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 45,
+          "opens": 23,
+          "notifications": 31,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 44,
+          "opens": 29,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 35,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 34,
+          "opens": 13,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 33,
+          "opens": 8,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 12,
+          "notifications": 5,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 18,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 13,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 10,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "pickups": 82,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 62,
+          "opens": 17,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 62,
+          "opens": 12,
+          "notifications": 31,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 55,
+          "opens": 21,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 49,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 34,
+          "opens": 20,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 27,
+          "opens": 10,
+          "notifications": 27,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 15,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "pickups": 81,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 92,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 67,
+          "opens": 17,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 53,
+          "opens": 16,
+          "notifications": 40,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 41,
+          "opens": 21,
+          "notifications": 36,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 38,
+          "opens": 15,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 26,
+          "opens": 11,
+          "notifications": 27,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 20,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 18,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 16,
+          "opens": 19,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 11,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "pickups": 82,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 58,
+          "opens": 16,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 50,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 46,
+          "opens": 13,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 36,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 34,
+          "opens": 19,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 12,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 9,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "pickups": 65,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 75,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 74,
+          "opens": 21,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 67,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 41,
+          "opens": 15,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 36,
+          "opens": 19,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 22,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 21,
+          "opens": 5,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 13,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 12,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "pickups": 69,
+      "apps": [
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 72,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 69,
+          "opens": 25,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 66,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 40,
+          "opens": 16,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 16,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 23,
+          "opens": 19,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 18,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 14,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 12,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 11,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "pickups": 37,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 86,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 69,
+          "opens": 12,
+          "notifications": 38,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 66,
+          "opens": 17,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 43,
+          "opens": 24,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 42,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 39,
+          "opens": 18,
+          "notifications": 5,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 34,
+          "opens": 15,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 8,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/slack.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "pickups": 36,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 70,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 65,
+          "opens": 12,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 60,
+          "opens": 31,
+          "notifications": 34,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 34,
+          "opens": 21,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 31,
+          "opens": 14,
+          "notifications": 30,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 26,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 25,
+          "opens": 18,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 20,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 18,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "pickups": 69,
+      "apps": [
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 67,
+          "opens": 31,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 66,
+          "opens": 23,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 64,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 52,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 39,
+          "opens": 20,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 36,
+          "opens": 5,
+          "notifications": 23,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 13,
+          "opens": 6,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 8,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 5,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "pickups": 55,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 94,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 70,
+          "opens": 24,
+          "notifications": 35,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 64,
+          "opens": 13,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 20,
+          "opens": 9,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 13,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 10,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "pickups": 77,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 80,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 58,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 35,
+          "opens": 27,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 34,
+          "opens": 32,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 17,
+          "opens": 20,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 11,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 10,
+          "opens": 16,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "pickups": 30,
+      "apps": [
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 71,
+          "opens": 16,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 68,
+          "opens": 32,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 61,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 58,
+          "opens": 7,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 51,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 40,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 37,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 23,
+          "opens": 20,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 22,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 20,
+          "opens": 18,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "pickups": 53,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 85,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 47,
+          "opens": 23,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 41,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 36,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 34,
+          "opens": 12,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 17,
+          "opens": 5,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 14,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "pickups": 80,
+      "apps": [
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 60,
+          "opens": 12,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 56,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 30,
+          "opens": 7,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 25,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 20,
+          "opens": 16,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 14,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 13,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "pickups": 62,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 51,
+          "opens": 31,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 43,
+          "opens": 22,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 43,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 35,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 33,
+          "opens": 11,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 33,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 31,
+          "opens": 15,
+          "notifications": 5,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 27,
+          "opens": 8,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 26,
+          "opens": 14,
+          "notifications": 41,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 10,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "pickups": 32,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 71,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 54,
+          "opens": 28,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 53,
+          "opens": 10,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 37,
+          "opens": 20,
+          "notifications": 4,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 35,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 29,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 26,
+          "opens": 28,
+          "notifications": 41,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 24,
+          "opens": 21,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 7,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "pickups": 51,
+      "apps": [
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 71,
+          "opens": 28,
+          "notifications": 42,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 60,
+          "opens": 31,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 54,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 52,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 42,
+          "opens": 31,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 15,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 15,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 13,
+          "opens": 5,
+          "notifications": 30,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 10,
+          "opens": 8,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "pickups": 30,
+      "apps": [
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 63,
+          "opens": 13,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 61,
+          "opens": 29,
+          "notifications": 30,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 46,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 45,
+          "opens": 27,
+          "notifications": 38,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 31,
+          "opens": 17,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 23,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 13,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 12,
+          "opens": 8,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 8,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 4,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "pickups": 47,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 78,
+          "opens": 10,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 52,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 40,
+          "opens": 12,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 34,
+          "opens": 16,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 31,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 29,
+          "opens": 22,
+          "notifications": 31,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 25,
+          "opens": 15,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 24,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 15,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 13,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "pickups": 48,
+      "apps": [
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 58,
+          "opens": 13,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 54,
+          "opens": 24,
+          "notifications": 42,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 53,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 49,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 43,
+          "opens": 19,
+          "notifications": 35,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 17,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 16,
+          "opens": 10,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 5,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "pickups": 88,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 94,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 70,
+          "opens": 26,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 45,
+          "opens": 12,
+          "notifications": 27,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 37,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 36,
+          "opens": 14,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 35,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 28,
+          "opens": 16,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 12,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "pickups": 48,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 75,
+          "opens": 20,
+          "notifications": 36,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 45,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 41,
+          "opens": 20,
+          "notifications": 32,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 41,
+          "opens": 25,
+          "notifications": 27,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 35,
+          "opens": 21,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 24,
+          "opens": 23,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 12,
+          "notifications": 4,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 20,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "pickups": 46,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 97,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 74,
+          "opens": 14,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 58,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 44,
+          "opens": 22,
+          "notifications": 27,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 35,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 31,
+          "opens": 14,
+          "notifications": 5,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 5,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 14,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 12,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "pickups": 56,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 57,
+          "opens": 12,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 54,
+          "opens": 27,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 48,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 44,
+          "opens": 12,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 43,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 32,
+          "opens": 26,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 16,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "pickups": 30,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 64,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 61,
+          "opens": 16,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 60,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 50,
+          "opens": 18,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 46,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 35,
+          "opens": 12,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 13,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 16,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 15,
+          "opens": 27,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "pickups": 59,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 106,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 76,
+          "opens": 15,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 60,
+          "opens": 21,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 36,
+          "opens": 30,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 17,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 26,
+          "opens": 28,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 12,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "pickups": 24,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 58,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 57,
+          "opens": 15,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 53,
+          "opens": 20,
+          "notifications": 33,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 37,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 30,
+          "opens": 13,
+          "notifications": 17,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 11,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 11,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 10,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "pickups": 78,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 86,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 68,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 44,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 44,
+          "opens": 23,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 37,
+          "opens": 8,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 31,
+          "opens": 12,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 27,
+          "opens": 18,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "pickups": 71,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 72,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 40,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 40,
+          "opens": 8,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 28,
+          "opens": 23,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 25,
+          "opens": 11,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 14,
+          "opens": 18,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "pickups": 61,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 60,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 58,
+          "opens": 21,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 39,
+          "opens": 19,
+          "notifications": 44,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 33,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 21,
+          "opens": 16,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 19,
+          "opens": 7,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 19,
+          "opens": 12,
+          "notifications": 23,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 17,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "pickups": 67,
+      "apps": [
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 51,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 39,
+          "opens": 12,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 38,
+          "opens": 17,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 30,
+          "opens": 16,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 9,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 24,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "pickups": 36,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 65,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 54,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 51,
+          "opens": 23,
+          "notifications": 34,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 50,
+          "opens": 22,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 38,
+          "opens": 13,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 38,
+          "opens": 13,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 37,
+          "opens": 23,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 26,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 7,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 9,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "pickups": 38,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 69,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 50,
+          "opens": 13,
+          "notifications": 8,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 49,
+          "opens": 16,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 47,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 37,
+          "opens": 17,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 27,
+          "opens": 14,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 23,
+          "opens": 21,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 11,
+          "opens": 12,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 10,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 6,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "pickups": 38,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 76,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 74,
+          "opens": 22,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 54,
+          "opens": 31,
+          "notifications": 58,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 53,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 39,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 39,
+          "opens": 10,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 24,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 6,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 19,
+          "opens": 22,
+          "notifications": 37,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 12,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 5,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "pickups": 63,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 67,
+          "opens": 13,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 65,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 65,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 46,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 32,
+          "opens": 14,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 31,
+          "opens": 25,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 31,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 25,
+          "opens": 10,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 20,
+          "opens": 8,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 13,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 8,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "pickups": 48,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 71,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 63,
+          "opens": 16,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 61,
+          "opens": 15,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 50,
+          "opens": 18,
+          "notifications": 31,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 25,
+          "opens": 18,
+          "notifications": 29,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 16,
+          "opens": 16,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 14,
+          "opens": 10,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 14,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "pickups": 42,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 51,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 49,
+          "opens": 13,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 46,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 32,
+          "opens": 20,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 31,
+          "opens": 15,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 29,
+          "opens": 24,
+          "notifications": 14,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 27,
+          "opens": 8,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 25,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 11,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "pickups": 78,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 78,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 60,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 51,
+          "opens": 16,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 46,
+          "opens": 20,
+          "notifications": 46,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 40,
+          "opens": 17,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 34,
+          "opens": 16,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 8,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "pickups": 49,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 56,
+          "opens": 19,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 50,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 48,
+          "opens": 12,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 19,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "pickups": 48,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 72,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 69,
+          "opens": 22,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 65,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 48,
+          "opens": 10,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 43,
+          "opens": 14,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 28,
+          "opens": 24,
+          "notifications": 33,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 12,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 16,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 11,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 2,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "pickups": 77,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 92,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 78,
+          "opens": 24,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 68,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 56,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 46,
+          "opens": 11,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 34,
+          "opens": 29,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 11,
+          "notifications": 4,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 9,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 16,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "pickups": 46,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 63,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 57,
+          "opens": 21,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 47,
+          "opens": 17,
+          "notifications": 22,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 37,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 33,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 8,
+          "notifications": 9,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 18,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 25,
+          "opens": 25,
+          "notifications": 32,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 16,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 11,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "pickups": 69,
+      "apps": [
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 76,
+          "opens": 37,
+          "notifications": 88,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 57,
+          "opens": 13,
+          "notifications": 3,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 52,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 49,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 48,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 39,
+          "opens": 15,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 36,
+          "opens": 14,
+          "notifications": 23,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 28,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 23,
+          "opens": 8,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 21,
+          "opens": 22,
+          "notifications": 27,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 11,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "pickups": 89,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 72,
+          "opens": 17,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 55,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 55,
+          "opens": 37,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 47,
+          "opens": 22,
+          "notifications": 21,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 33,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 31,
+          "opens": 9,
+          "notifications": 3,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 29,
+          "opens": 13,
+          "notifications": 26,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 27,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 23,
+          "opens": 25,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 15,
+          "opens": 3,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 9,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "pickups": 62,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 84,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 77,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 73,
+          "opens": 21,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 64,
+          "opens": 27,
+          "notifications": 28,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 59,
+          "opens": 20,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 47,
+          "opens": 15,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 42,
+          "opens": 13,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 18,
+          "opens": 8,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 13,
+          "opens": 16,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 9,
+          "opens": 1,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "pickups": 40,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 55,
+          "opens": 12,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 45,
+          "opens": 28,
+          "notifications": 25,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 43,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 43,
+          "opens": 15,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 31,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 30,
+          "opens": 21,
+          "notifications": 30,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 23,
+          "opens": 12,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "pickups": 51,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 74,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 60,
+          "opens": 18,
+          "notifications": 35,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 58,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 35,
+          "opens": 16,
+          "notifications": 5,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 20,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 17,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 9,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "pickups": 39,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 75,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 54,
+          "opens": 14,
+          "notifications": 18,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 46,
+          "opens": 9,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 42,
+          "opens": 15,
+          "notifications": 13,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 34,
+          "opens": 9,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 26,
+          "opens": 24,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 22,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 19,
+          "opens": 7,
+          "notifications": 7,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 8,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 4,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "pickups": 65,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 81,
+          "opens": 16,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 53,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 39,
+          "opens": 14,
+          "notifications": 20,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 37,
+          "opens": 21,
+          "notifications": 34,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 35,
+          "opens": 35,
+          "notifications": 42,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 24,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 18,
+          "opens": 9,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 15,
+          "opens": 18,
+          "notifications": 16,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 9,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "pickups": 40,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 51,
+          "opens": 25,
+          "notifications": 1,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 45,
+          "opens": 15,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 42,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 30,
+          "opens": 8,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 29,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 27,
+          "opens": 14,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 24,
+          "opens": 23,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 24,
+          "opens": 14,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 11,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "pickups": 73,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 54,
+          "opens": 21,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 53,
+          "opens": 8,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 36,
+          "opens": 17,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 35,
+          "opens": 29,
+          "notifications": 41,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 27,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 19,
+          "opens": 29,
+          "notifications": 4,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 16,
+          "opens": 7,
+          "notifications": 6,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 10,
+          "opens": 2,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 9,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "pickups": 81,
+      "apps": [
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 60,
+          "opens": 10,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 58,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 52,
+          "opens": 19,
+          "notifications": 10,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 35,
+          "opens": 7,
+          "notifications": 11,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 32,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 14,
+          "opens": 11,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 7,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "pickups": 78,
+      "apps": [
+        {
+          "app_name": "Instagram",
+          "category": "Social",
+          "screen_time_minutes": 46,
+          "opens": 23,
+          "notifications": 36,
+          "app_icon": "/assets/app-icons/instagram.webp"
+        },
+        {
+          "app_name": "Slack",
+          "category": "Productivity",
+          "screen_time_minutes": 39,
+          "opens": 13,
+          "notifications": 24,
+          "app_icon": "/assets/app-icons/slack.webp"
+        },
+        {
+          "app_name": "Chrome",
+          "category": "Productivity",
+          "screen_time_minutes": 38,
+          "opens": 14,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/chrome.webp"
+        },
+        {
+          "app_name": "YouTube",
+          "category": "Entertainment",
+          "screen_time_minutes": 38,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/youtube.webp"
+        },
+        {
+          "app_name": "Spotify",
+          "category": "Entertainment",
+          "screen_time_minutes": 35,
+          "opens": 6,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/spotify.webp"
+        },
+        {
+          "app_name": "TikTok",
+          "category": "Entertainment",
+          "screen_time_minutes": 34,
+          "opens": 14,
+          "notifications": 15,
+          "app_icon": "/assets/app-icons/tiktok.webp"
+        },
+        {
+          "app_name": "WhatsApp",
+          "category": "Social",
+          "screen_time_minutes": 33,
+          "opens": 17,
+          "notifications": 19,
+          "app_icon": "/assets/app-icons/whatsapp.webp"
+        },
+        {
+          "app_name": "Messages",
+          "category": "Communication",
+          "screen_time_minutes": 22,
+          "opens": 29,
+          "notifications": 12,
+          "app_icon": "/assets/app-icons/messages.webp"
+        },
+        {
+          "app_name": "Notion",
+          "category": "Productivity",
+          "screen_time_minutes": 21,
+          "opens": 7,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/notion.webp"
+        },
+        {
+          "app_name": "Gmail",
+          "category": "Productivity",
+          "screen_time_minutes": 19,
+          "opens": 2,
+          "notifications": 1,
+          "app_icon": "/assets/app-icons/gmail.webp"
+        },
+        {
+          "app_name": "Maps",
+          "category": "Travel",
+          "screen_time_minutes": 19,
+          "opens": 5,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/googlemaps.webp"
+        },
+        {
+          "app_name": "Camera",
+          "category": "Utilities",
+          "screen_time_minutes": 9,
+          "opens": 4,
+          "notifications": 0,
+          "app_icon": "/assets/app-icons/camera.webp"
+        }
+      ]
+    }
+  ]
+}
