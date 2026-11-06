@@ -101,6 +101,7 @@ import Sidebar from "../components/Sidebar";
 import Navbar from "../components/Navbar";
 import OverlayManager from "../components/overlays/OverlayManager";
 import WelcomeMessage from "../components/WelcomeMessage";
+import Footer from "../components/Footer";
 
 const Layout = () => {
   const { pathname } = useLocation();
@@ -167,6 +168,8 @@ const Layout = () => {
           <Navbar pageTitle={pageTitle} openOverlay={openOverlay} />
 
           <Outlet />
+
+          <Footer />
         </div>
       </main>
 
