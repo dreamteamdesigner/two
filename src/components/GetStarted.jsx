@@ -2,7 +2,10 @@ import React from "react";
 
 const GetStarted = () => {
   return (
-    <a href="" className="get-started-btn">
+    <a
+      href="https://linktr.ee/cipherinvestigativeteam"
+      className="get-started-btn"
+    >
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="20"
