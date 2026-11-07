@@ -2764,7 +2764,7 @@ footer a {
   user-select: none;
   align-items: center;
   font-size: 0.8125rem;
-  box-shadow: 4px 12px 16px 2px hsla(0, 0%, 100%, 0.15);
+  box-shadow: 0px 4px 16px 2px hsla(0, 0%, 100%, 0.15);
 }
 .get-started-btn svg{
   filter: drop-shadow(0 4px 8px hsla(270, 100%, 60%, 0.5));
@@ -2772,4 +2772,8 @@ footer a {
 .get-started-btn:active {
   transform: scale(0.9);
   box-shadow: 0px 8px 16px 0px hsla(0, 0%, 100%, 0.05);
+}
+.get-started-btn:hover{
+  box-shadow: 4px 12px 16px 2px hsla(0, 0%, 100%, 0.15);
+  transform: scale(1.05) translateY(-5px);
 }
