@@ -2759,10 +2759,15 @@ footer a {
   font-weight: 600;
   text-transform: uppercase;
   display: flex;
+  gap: 8px;
+  padding-left: 16px;
   user-select: none;
   align-items: center;
   font-size: 0.8125rem;
   box-shadow: 4px 12px 16px 2px hsla(0, 0%, 100%, 0.15);
+}
+.get-started-btn svg{
+  filter: drop-shadow(0 4px 8px hsla(270, 100%, 60%, 0.5));
 }
 .get-started-btn:active {
   transform: scale(0.9);
