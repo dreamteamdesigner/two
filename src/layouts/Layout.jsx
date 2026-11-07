@@ -102,6 +102,7 @@ import Navbar from "../components/Navbar";
 import OverlayManager from "../components/overlays/OverlayManager";
 import WelcomeMessage from "../components/WelcomeMessage";
 import Footer from "../components/Footer";
+import GetStarted from "../components/GetStarted";
 
 const Layout = () => {
   const { pathname } = useLocation();
@@ -172,6 +173,7 @@ const Layout = () => {
           <Footer />
         </div>
       </main>
+      <GetStarted />
 
       <OverlayManager
         activeOverlay={activeOverlay}
