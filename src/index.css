@@ -400,7 +400,7 @@ main {
   border-radius: 200px;
   cursor: pointer;
 }
-.prolific > svg{
+.prolific > svg {
   margin-top: 3px;
 }
 .prolific > .contents {
@@ -860,7 +860,7 @@ section .header .heads {
   border-radius: 8px;
   overflow: hidden;
 }
-.gallery-widget > div .image img{
+.gallery-widget > div .image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -2287,14 +2287,22 @@ div.empty-chat {
   display: none;
 }
 @media (max-width: 400px) {
-  .prolific span{
+  .prolific span {
     display: none;
   }
-.notif-dropdown {
-  min-width: 300px;
-  right: -86px;
-}
-
+  .notif-dropdown {
+    min-width: 300px;
+    right: -86px;
+  }
+  .row.data {
+    display: flex !important;
+    flex-flow: column;
+  }
+  section .header .heads {
+    flex-flow: column;
+    gap: 16px;
+    padding-top: 8px;
+  }
 }
 @media (max-width: 780px) {
   .sidebar-container {
@@ -2605,7 +2613,7 @@ div.empty-chat {
     width: 100%;
   }
 }
-.welcome-overlay{
+.welcome-overlay {
   position: fixed;
   inset: 0;
   z-index: 300;
@@ -2615,32 +2623,32 @@ div.empty-chat {
   justify-content: center;
   padding: 40px;
 }
-.welcome-modal > div{
+.welcome-modal > div {
   flex: 1;
 }
-.welcome-modal .lhs{
+.welcome-modal .lhs {
   background-color: var(--dark-secondary);
   border-radius: 20px;
 }
-.welcome-modal .rhs{
+.welcome-modal .rhs {
   display: flex;
   flex-flow: column;
   justify-content: space-between;
   padding: 20px;
 }
-.welcome-modal .rhs .top{
+.welcome-modal .rhs .top {
   display: flex;
   flex-flow: column;
   gap: 20px;
 }
-.logo-cont{
+.logo-cont {
   display: flex;
   align-items: center;
   gap: 16px;
   font-weight: 500;
 }
-.welcome-modal .rhs .top p{
-  font-size: .8125rem;
+.welcome-modal .rhs .top p {
+  font-size: 0.8125rem;
   line-height: 1.4em;
   color: var(--accent-color);
 }
@@ -2653,7 +2661,7 @@ div.empty-chat {
   gap: 12px;
 }
 
-.welcome-modal button{
+.welcome-modal button {
   height: 40px;
   border: none;
   cursor: pointer;
@@ -2661,7 +2669,7 @@ div.empty-chat {
   box-shadow: 2px 8px 12px hsla(270, 100%, 50%, 0.2);
   border-radius: 100px;
 }
-.welcome-modal button:hover{
+.welcome-modal button:hover {
   background-color: hsl(270, 100%, 55%);
 }
 .welcome-modal .middle ul li {
@@ -2679,7 +2687,7 @@ div.empty-chat {
   flex-shrink: 0;
   background: var(--accent-color);
 }
-.logo-cont .icon{
+.logo-cont .icon {
   width: 40px;
   display: flex;
   align-items: center;
@@ -2687,10 +2695,10 @@ div.empty-chat {
   aspect-ratio: 1;
   background-color: hsla(270, 100%, 50%, 0.2);
 }
-.logo-cont .icon img{
+.logo-cont .icon img {
   width: 20px;
 }
-.welcome-modal{
+.welcome-modal {
   padding: 8px;
   gap: 8px;
   display: grid;
@@ -2703,36 +2711,60 @@ div.empty-chat {
   border-radius: 28px;
 }
 @media (max-width: 880px) {
-  .welcome-modal .lhs{
+  .welcome-modal .lhs {
     display: none;
   }
-  .welcome-modal{
+  .welcome-modal {
     display: flex;
     max-width: 450px;
     height: min-content;
   }
-  .welcome-modal .rhs{
+  .welcome-modal .rhs {
     justify-content: unset;
     gap: 40px;
   }
-  .welcome-overlay{
+  .welcome-overlay {
     padding: 20px;
   }
 }
-footer{
+footer {
   display: flex;
   justify-content: space-between;
   min-height: 28px;
   align-items: center;
-  font-size: .75rem;
+  font-size: 0.75rem;
   padding: 0 20px;
   color: var(--text-secondary);
 }
-footer > div:last-child{
+footer > div:last-child {
   display: flex;
   align-items: center;
   gap: 16px;
 }
-footer a{
+footer a {
   color: var(--text-secondary);
+}
+.get-started-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  padding: 0 20px;
+  height: 44px;
+  cursor: pointer;
+  border: none;
+  border-radius: 100px;
+  background-color: #fff;
+  color: black;
+  transition: all ease 250ms;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: flex;
+  user-select: none;
+  align-items: center;
+  font-size: 0.8125rem;
+  box-shadow: 4px 12px 16px 2px hsla(0, 0%, 100%, 0.15);
+}
+.get-started-btn:active {
+  transform: scale(0.9);
+  box-shadow: 0px 8px 16px 0px hsla(0, 0%, 100%, 0.05);
 }
