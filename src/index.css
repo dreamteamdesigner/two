@@ -21,6 +21,10 @@
   --loss: hsla(0, 100%, 65%);
 }
 
+button{
+  color: unset;
+}
+
 a {
   text-decoration: none;
 }
