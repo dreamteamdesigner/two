@@ -1169,6 +1169,7 @@ section .header .heads {
 }
 .truncate-contact .icon.two {
   width: 28px;
+  aspect-ratio: 1;
 }
 .truncate-contact .icon.two img {
   width: 100%;
