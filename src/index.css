@@ -2300,10 +2300,7 @@ div.empty-chat {
     min-width: 300px;
     right: -86px;
   }
-  .row.data {
-    display: flex !important;
-    flex-flow: column;
-  }
+
   section .header .heads {
     flex-flow: column;
     gap: 16px;
