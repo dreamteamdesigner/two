@@ -814,6 +814,7 @@ section .header .heads {
 }
 .recent-activity-widget .info > div .contents .icon img {
   width: 32px;
+  height: 32px;
 }
 .recent-activity-widget .info > div .contents p {
   font-size: 0.8125rem;
